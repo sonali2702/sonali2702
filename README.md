@@ -1,19 +1,13 @@
-## Hi there 👋
+## 👋Hi, I'm Sonali Patil
 
-<!--
-**sonali2702/sonali2702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍉 Excited to build and share innovative full-stack projects.
+- 🌱 I’m currently learning MERN stack ecosystem
+- 🔧 Tech stack:  HTML,CSS,JavaScript,Java, and MySql.
+- 💬 Ask me about:  Web development, JavaScript, and APIs
+- 📫 How to reach me: [sonalipatil27072002@gmail.com]
+- 🌍 Dreaming of building software that makes a positive impact globally.
 
 
 ## 🌐 Socials:
